@@ -49,15 +49,6 @@ Then install dependencies in the venv: pip install -r requirements.txt
 
 ## 3. Usage
 
-Open each jupiter file , Run all the code at once or in sections to simulate the models 
-
-uncommenting the figure saving functions sallow to save figures in the images folder 
-
-the ANN model should be trained multiple time to obatin favorable results
-
-the network detailed result are saved in the log folder and whish can be visualized using tenserboard by enabling:
-tensorboard --logdir logs/fit
-
 **Run the Jupyter Notebooks**:
    - Open each Jupyter notebook in Jupyter Notebook or JupyterLab.
    - Execute all cells at once or run them in sections to simulate the electrolyser models and generate results.
