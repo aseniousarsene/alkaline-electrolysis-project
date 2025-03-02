@@ -83,7 +83,7 @@ Please cite this work using the DOI from Zenodo:
   title        = {Electrolyser Performance Modeling and AI Prediction: Version 1.0},
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.14954755},
+  url          = {https://doi.org/10.5281/zenodo.14954754}
 }
  ```
