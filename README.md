@@ -1,11 +1,11 @@
 
-# README: Research Code for [Performance Evaluation of Alkaline Water Electrolysis for Green Hydrogen Production: A Machine Learning and Computational Numerical Approach]
+# README: Research Code for Performance Evaluation of Alkaline Water Electrolysis for Green Hydrogen Production: A Machine Learning and Computational Numerical Approach
 
 ## 1. Overview 
 
 This repository contains the research code patterning to the paper:
-[**Performance Evaluation of Alkaline Water Electrolysis for Green Hydrogen Production: A Machine Learning and Computational Numerical Approach**]
-Authors: [Mahiya Arsene ka, Tumisang Seodigeng ,John Kabuba ]
+**"Performance Evaluation of Alkaline Water Electrolysis for Green Hydrogen Production: A Machine Learning and Computational Numerical Approach"**
+Authors: Mahiya Arsene ka, Tumisang Seodigeng ,John Kabuba 
 Published in: [Results in Engineering]
 DOI:[]
 This code implements the modelling, evaluation and optimization of an alkaline electrolysis system for green hydrogen production. It includes Python Jupiter notebook scripts for the system simulation and ANN modelling with result visualization.
@@ -51,7 +51,7 @@ Then install dependencies in the venv: pip install -r requirements.txt
 
 **Run the Jupyter Notebooks**:
    - Open each Jupyter notebook in Jupyter Notebook or JupyterLab.
-   - Execute all cells at once or run them in sections to simulate the electrolyser models and generate results.
+   - Execute all cells simultaneously or run them in sections to simulate the electrolyser models and generate results.
 
 **Save Figures**:
    - Uncomment the figure-saving functions (`plt.savefig()`) in the notebooks to export plots to the `images` folder.
