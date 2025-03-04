@@ -6,8 +6,8 @@
 This repository contains the research code patterning to the paper:
 **"Evaluation of Alkaline Water Electrolysis for Green Hydrogen: A Numerical Optimization and Machine Learning Approach"**
 Authors: Mahiya Arsene ka, Tumisang Seodigeng ,John Kabuba 
-Published in: [Results in Engineering]
-DOI:[]
+Published in: Results in Engineering
+DOI:
 This code implements the modelling, evaluation and optimization of an alkaline electrolysis system for green hydrogen production. It includes Python Jupiter notebook scripts for the system simulation and ANN modelling with result visualization.
 
 ## 2. Repository Structure
