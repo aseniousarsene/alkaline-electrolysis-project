@@ -1,10 +1,10 @@
 
-# README: Research Code for Performance Evaluation of Alkaline Water Electrolysis for Green Hydrogen Production: A Machine Learning and Computational Numerical Approach
+# README: Research Code for Evaluation of Alkaline Water Electrolysis for Green Hydrogen: A Numerical Optimization and Machine Learning Approach
 
 ## 1. Overview 
 
 This repository contains the research code patterning to the paper:
-**"Performance Evaluation of Alkaline Water Electrolysis for Green Hydrogen Production: A Machine Learning and Computational Numerical Approach"**
+**"Evaluation of Alkaline Water Electrolysis for Green Hydrogen: A Numerical Optimization and Machine Learning Approach"**
 Authors: Mahiya Arsene ka, Tumisang Seodigeng ,John Kabuba 
 Published in: [Results in Engineering]
 DOI:[]
