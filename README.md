@@ -79,8 +79,8 @@ Please cite this work using the DOI from Zenodo:
 
  ```bibtex
 @misc{Mahiya_2025,
-  author       = {Arsene, Mahiya},
-  title        = {Electrolyser Performance Modeling and AI Prediction: Version 1.0},
+  author       = {K. Arsene, Mahiya},
+  title        = {Electrolyser Performance Modeling and AI Prediction},
   year         = 2025,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.14954755},
