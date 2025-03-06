@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+title: Electrolyser Performance Modeling and AI Prediction
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: K. Arsene
+    family-names: Mahiya
+    email: arsenemahiya@gmail.com
+    name-particle: Arsene
+    orcid: 'https://orcid.org/0000-0002-7058-2056'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14954755
+    description: Publisher Zenodo
+repository-code: 'https://doi.org/10.5281/zenodo.14954754'
+version: v.1.0.4
+date-released: '2025-03-06'
